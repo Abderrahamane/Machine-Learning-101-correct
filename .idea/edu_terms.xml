@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="29767891">
+                <value>
+                  <list>
+                    <Term value="numpy-array" definition="A multidimensional array object provided by the NumPy library for efficient numerical computations." />
+                    <Term value="k_means" definition="A clustering algorithm that partitions data into a specified number of clusters based on similarity." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="32292440">
+                <value>
+                  <list>
+                    <Term value="dataset" definition="A structured collection of data, often used for training or evaluating machine learning models." />
+                    <Term value="matrix" definition="A two-dimensional array of numbers, often used to represent data or mathematical operations." />
+                    <Term value="dictionary" definition="A Python data structure that stores key-value pairs for fast lookup." />
+                    <Term value="vector" definition="An array-like data structure, often used to represent a sequence of values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="60049391">
+                <value>
+                  <list>
+                    <Term value="vectorize" definition="Function that converts text data into numerical feature vectors for machine learning models." />
+                    <Term value="NumPy" definition="A Python library for numerical computations, especially with arrays and matrices." />
+                    <Term value="mask" definition="A boolean array used to select or filter elements in another array." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="102376088">
+                <value>
+                  <list>
+                    <Term value="classification" definition="The task of assigning input data to one of several predefined categories or classes." />
+                    <Term value="Recognition" definition="The process of identifying patterns or objects within input data, such as images or sounds." />
+                    <Term value="normalization" definition="The process of rescaling input data to a specific range, often [0,1] or [-1,1]." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="211960367">
+                <value>
+                  <list>
+                    <Term value="NumPy" definition="A Python library for efficient numerical computations and handling of large, multi-dimensional arrays." />
+                    <Term value="scalar product" definition="Also called dot product; multiplies two vectors to produce a single number." />
+                    <Term value="vector" definition="An ordered array of numbers representing a point or direction in space." />
+                    <Term value="matrix" definition="A two-dimensional array of numbers arranged in rows and columns." />
+                    <Term value="standardized" definition="Process of rescaling data to have mean 0 and standard deviation 1." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="256670213">
+                <value>
+                  <list>
+                    <Term value="centroids" definition="Central points representing clusters in clustering algorithms, used to assign data points to the nearest cluster." />
+                    <Term value="clusters" definition="Grouping data points so that those in the same group are more similar to each other than to those in other groups." />
+                    <Term value="vector quantization" definition="Technique for compressing data by mapping vectors to a finite set of representative vectors." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="299614034">
+                <value>
+                  <list>
+                    <Term value="centroid" definition="Center points of clusters, often representing average values in clustering algorithms like k-means." />
+                    <Term value="k_means" definition="A popular clustering algorithm that partitions data into k distinct groups based on similarity." />
+                    <Term value="euclidean_distance" definition="A metric for measuring straight-line distance between two points in Euclidean space." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="333743827">
+                <value>
+                  <list>
+                    <Term value="magnetoencephalography" definition="A non-invasive technique for recording magnetic fields produced by brain activity." />
+                    <Term value="time series" definition="A sequence of data points collected or recorded at successive points in time." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="337824521">
+                <value>
+                  <list>
+                    <Term value="recursive" definition="A function that calls itself to solve a problem by breaking it into smaller subproblems." />
+                    <Term value="instance" definition="An object created from a class; a specific realization of a class in memory." />
+                    <Term value="class label" definition="The output category assigned to an object by a classification algorithm." />
+                    <Term value="leaf node" definition="A terminal node in a tree structure that contains a final value or class label." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="464258463">
+                <value>
+                  <list>
+                    <Term value="model" definition="A mathematical or computational representation of a real-world process used for prediction or analysis." />
+                    <Term value="clustering" definition="A machine learning technique that groups similar data points together without predefined labels." />
+                    <Term value="supervised learning" definition="A machine learning approach where models are trained using labeled input-output pairs." />
+                    <Term value="parameters" definition="Values in a model that are learned from data to optimize predictions." />
+                    <Term value="optimize" definition="The process of adjusting parameters to improve a model's performance based on a chosen metric." />
+                    <Term value="feature noise" definition="Random or irrelevant variations in feature data that can reduce model accuracy." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="487078514">
+                <value>
+                  <list>
+                    <Term value="entropy" definition="A measure of impurity or disorder used to evaluate splits in decision trees." />
+                    <Term value="information gain" definition="The reduction in entropy after a dataset is split on an attribute." />
+                    <Term value="predicate" definition="A function or condition used to test or divide data in algorithms." />
+                    <Term value="class label" definition="The target value or category assigned to a data instance in classification tasks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="546205077">
+                <value>
+                  <list>
+                    <Term value="feedforward" definition="A neural network where connections move only forward from input to output layers, no cycles or loops." />
+                    <Term value="supervised learning" definition="A machine learning type where models train on labeled data with known outputs." />
+                    <Term value="activation function" definition="A function applied to neuron outputs to introduce non-linearity in neural networks." />
+                    <Term value="output layer" definition="The final layer in a neural network, producing the network's predictions." />
+                    <Term value="hidden layers" definition="Intermediate layers in a neural network between input and output layers, enabling complex representations." />
+                    <Term value="vector product" definition="Also called dot product; multiplies two vectors, resulting in a scalar or another vector." />
+                    <Term value="transpose" definition="An operation that flips a matrix over its diagonal, swapping rows and columns." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="557934260">
+                <value>
+                  <list>
+                    <Term value="entropy" definition="A measure of uncertainty or impurity in a dataset, used in information theory and decision trees." />
+                    <Term value="decision tree" definition="A tree-like model used for decision making and classification in machine learning." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="641013304">
+                <value>
+                  <list>
+                    <Term value="k-means" definition="An unsupervised machine learning algorithm for partitioning data into k clusters based on feature similarity." />
+                    <Term value="numpy.reshape" definition="A NumPy function that changes the shape of an array without changing its data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="738281256">
+                <value>
+                  <list>
+                    <Term value="model" definition="A mathematical representation used to make predictions or decisions based on data." />
+                    <Term value="clustering" definition="Groups of similar data points identified by a clustering algorithm in unsupervised learning." />
+                    <Term value="feature" definition="An individual measurable property or characteristic of a phenomenon being observed." />
+                    <Term value="labeled" definition="Data that includes both input values and the corresponding correct output (target) values." />
+                    <Term value="unlabeled" definition="Data that includes input values but lacks corresponding correct output (target) values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="822752501">
+                <value>
+                  <list>
+                    <Term value="activation function" definition="A mathematical function applied to neural network outputs to introduce non-linearity." />
+                    <Term value="input layer" definition="The first layer of a neural network that receives the input data." />
+                    <Term value="output layer" definition="The final layer of a neural network that produces the prediction or result." />
+                    <Term value="hidden neurons" definition="Neurons in layers between input and output layers, enabling complex representations." />
+                    <Term value="classification model" definition="A model that assigns input data to one of several predefined categories." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="901121722">
+                <value>
+                  <list>
+                    <Term value="k-nearest neighbors" definition="A classification algorithm that assigns labels based on the closest data points in feature space." />
+                    <Term value="classifier" definition="A model or algorithm that assigns categories or labels to data based on input features." />
+                    <Term value="feature matrix" definition="A two-dimensional array where rows are samples and columns are features describing each sample." />
+                    <Term value="class identifier" definition="A value or label indicating the category to which a data sample belongs." />
+                    <Term value="data bias" definition="A systematic error introduced by non-random sampling or data collection methods." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="948666714">
+                <value>
+                  <list>
+                    <Term value="collaborative filtering" definition="A technique that makes recommendations by analyzing preferences or behavior of multiple users." />
+                    <Term value="recommendation system" definition="A software tool that suggests items to users based on data analysis and prediction." />
+                    <Term value="phylogenetic trees" definition="Branching diagrams showing evolutionary relationships among species based on genetic or physical traits." />
+                    <Term value="nucleotide substitutions" definition="Changes in the DNA sequence where one nucleotide is replaced by another." />
+                    <Term value="statistical inference" definition="The process of drawing conclusions from data using statistical methods." />
+                    <Term value="hierarchical models" definition="Statistical models with parameters organized at multiple levels, often representing nested data structures." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="958090737">
+                <value>
+                  <list>
+                    <Term value="entropy" definition="A measure of impurity or disorder used in decision tree algorithms to split data." />
+                    <Term value="threshold" definition="A value used as a cutoff to divide data based on a specific condition." />
+                    <Term value="mask" definition="A boolean array used to filter or select elements from another array based on a condition." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1026411252">
+                <value>
+                  <list>
+                    <Term value="backpropagation" definition="Algorithm for training neural networks by adjusting weights based on error gradients." />
+                    <Term value="Feedforward" definition="Neural network type where connections move in one direction, from input to output, without cycles." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1037263357">
+                <value>
+                  <list>
+                    <Term value="unsupervised learning" definition="A type of machine learning where the model finds patterns in data without labeled outputs." />
+                    <Term value="centroids" definition="Points representing the centers of clusters in clustering algorithms like k-means." />
+                    <Term value="vectors" definition="An ordered array of numbers representing data points in mathematics or programming." />
+                    <Term value="metric" definition="A function that defines the distance between elements in a space." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1175930327">
+                <value>
+                  <list>
+                    <Term value="training set" definition="A subset of data used to train a machine learning model." />
+                    <Term value="cost function" definition="A function measuring the error between predicted and actual values in a model." />
+                    <Term value="margin" definition="In classification, the distance from a data point to the decision boundary." />
+                    <Term value="iteration" definition="A single cycle of a repeated process, often in optimization algorithms." />
+                    <Term value="arithmetic overflow" definition="An error when a calculation exceeds the maximum value a variable can store." />
+                    <Term value="exponentiation" definition="A mathematical operation involving raising one number to the power of another." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1203701636">
+                <value>
+                  <list>
+                    <Term value="hyperplane" definition="A flat subspace dividing a high-dimensional space into two parts, used for classification." />
+                    <Term value="derivatives" definition="Measures of how a function changes as its input changes; used for optimization in machine learning." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1218803920">
+                <value>
+                  <list>
+                    <Term value="linear classifier" definition="A model that separates data into classes using a linear decision boundary." />
+                    <Term value="exploding gradients" definition="A problem where gradients grow too large during training, causing unstable learning." />
+                    <Term value="regressors" definition="Models that predict continuous values instead of class labels." />
+                    <Term value="single-layer perceptron" definition="A simple neural network with one layer, used for linear classification tasks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1322089838">
+                <value>
+                  <list>
+                    <Term value="vector" definition="An ordered one-dimensional array of numbers, often used to represent data or features." />
+                    <Term value="class label" definition="A value that identifies the category or group an object belongs to in classification tasks." />
+                    <Term value="class identifier" definition="A unique value or code representing a specific class in classification problems." />
+                    <Term value="metric" definition="A function that defines the distance or similarity between two data points." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1361046625">
+                <value>
+                  <list>
+                    <Term value="deterministic algorithm" definition="An algorithm that produces the same output for a given input every time, with no randomness." />
+                    <Term value="predictive modeling" definition="The process of using data and algorithms to forecast future outcomes or trends." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1433110795">
+                <value>
+                  <list>
+                    <Term value="root node" definition="The topmost node in a tree structure, representing the starting point of the tree." />
+                    <Term value="subsets" definition="A smaller group of elements selected from a larger set, often based on specific criteria." />
+                    <Term value="class" definition="A category or label assigned to data points, often representing target values in classification tasks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1433398867">
+                <value>
+                  <list>
+                    <Term value="activation function" definition="A mathematical function applied to a neuron's output to introduce non-linearity into the network." />
+                    <Term value="weight initialization" definition="The process of assigning initial values to neural network weights before training begins." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1451817748">
+                <value>
+                  <list>
+                    <Term value="weight vector" definition="A vector containing the weights or coefficients for each feature in a linear model." />
+                    <Term value="loss function" definition="A function that measures the difference between predicted and actual values in a model." />
+                    <Term value="train_test_split" definition="A function to split data into training and testing subsets for model evaluation." />
+                    <Term value="log_loss" definition="A loss function for classification tasks, measuring the performance of a model whose output is a probability." />
+                    <Term value="sigmoid_loss" definition="A loss function using the sigmoid activation, often for binary classification tasks." />
+                    <Term value="alpha" definition="A parameter representing the learning rate, controlling the step size in gradient descent." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1521146828">
+                <value>
+                  <list>
+                    <Term value="Machine Learning" definition="A field of artificial intelligence focused on teaching computers to learn from data and make predictions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1559362274">
+                <value>
+                  <list>
+                    <Term value="class variable" definition="A variable representing the target category or label in classification tasks." />
+                    <Term value="predictors" definition="Features or input variables used to predict the target variable in a model." />
+                    <Term value="floating point operation" definition="A calculation involving numbers with fractional parts, represented in computer memory as floats." />
+                    <Term value="likelihood" definition="The probability of observed data given a particular class or parameter." />
+                    <Term value="prior probability" definition="The initial probability assigned to a class before observing any data." />
+                    <Term value="Posterior probabilities" definition="Updated probabilities of classes after considering the observed data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1566634033">
+                <value>
+                  <list>
+                    <Term value="train_test_split" definition="Function to split data into training and testing subsets for model evaluation." />
+                    <Term value="nn" definition="A class representing a neural network model, often used for classification or regression tasks." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1605896084">
+                <value>
+                  <list>
+                    <Term value="multi-nominal distribution" definition="A probability distribution describing outcomes of experiments with more than two possible categories." />
+                    <Term value="denominator" definition="The bottom part of a fraction, representing the total or whole in probability calculations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1708864963">
+                <value>
+                  <list>
+                    <Term value="dataset" definition="A collection of data, often organized in rows and columns, used for analysis or training models." />
+                    <Term value="class labels" definition="Target values that indicate the category or class for each data sample in classification tasks." />
+                    <Term value="nominal" definition="A data type representing categories without any order or ranking among them." />
+                    <Term value="metric classifier" definition="A classifier that uses distance measures between objects to assign class labels." />
+                    <Term value="oriented tree" definition="A tree data structure where edges have a direction, from parent to child nodes." />
+                    <Term value="root vertex" definition="The topmost node in a tree, from which all other nodes descend." />
+                    <Term value="internal nodes" definition="Nodes in a tree that have at least one child and are not leaves or the root." />
+                    <Term value="leaves" definition="Terminal nodes in a tree that do not have any children." />
+                    <Term value="terminal nodes" definition="Nodes at the end of a tree path, representing final outcomes or classes." />
+                    <Term value="predicate" definition="A function or condition that returns true or false, used to split data in decision trees." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1758682008">
+                <value>
+                  <list>
+                    <Term value="knn" definition="A machine learning algorithm that classifies data based on the closest training examples." />
+                    <Term value="X_train" definition="Training dataset containing input features used to fit a model." />
+                    <Term value="y_train" definition="Labels or target values for the training dataset." />
+                    <Term value="X_test" definition="Test dataset containing input features for evaluating a model." />
+                    <Term value="y_pred" definition="Predicted labels for the test dataset, generated by a model." />
+                    <Term value="y_test" definition="True labels for the test dataset, used to evaluate predictions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1909177832">
+                <value>
+                  <list>
+                    <Term value="scikit-learn" definition="A popular Python library for machine learning, providing tools for data analysis and modeling." />
+                    <Term value="distance function" definition="A mathematical function used to measure similarity or difference between data points." />
+                    <Term value="clusters" definition="Groups of similar data points identified in a dataset based on certain characteristics." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1959654941">
+                <value>
+                  <list>
+                    <Term value="cross-validation" definition="A technique for evaluating model performance by splitting data into training and testing sets multiple times." />
+                    <Term value="train_test_split" definition="A function to divide data into training and testing subsets for model evaluation." />
+                    <Term value="precision" definition="The ratio of true positives to all predicted positives; measures classification accuracy." />
+                    <Term value="recall" definition="The ratio of true positives to all actual positives; measures the ability to find all relevant cases." />
+                    <Term value="euclidean_dist" definition="A function that computes the straight-line distance between two points in Euclidean space." />
+                    <Term value="taxicab_dist" definition="A function that computes the sum of absolute differences between coordinates, also called Manhattan distance." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1999993017">
+                <value>
+                  <list>
+                    <Term value="greedy" definition="An algorithmic approach that makes the locally optimal choice at each step, hoping for a global optimum." />
+                    <Term value="local optimums" definition="Solutions that are best within a neighboring set of solutions, but not necessarily the best overall." />
+                    <Term value="overfitting" definition="When a model learns the training data too well, including noise, reducing its generalization to new data." />
+                    <Term value="factorized" definition="Data that is divided into discrete categories or groups, each with a finite set of possible values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2002228734">
+                <value>
+                  <list>
+                    <Term value="feedforward" definition="The process of passing input data through a neural network to generate predictions." />
+                    <Term value="main" definition="A special block in Python scripts that runs code only when the script is executed directly." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="71" />
+      </map>
+    </termsVersions>
+  </component>
+</project>
